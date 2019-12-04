@@ -1,1 +1,1 @@
-this is simple
+This is a simple practise
